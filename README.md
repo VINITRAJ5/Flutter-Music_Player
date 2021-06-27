@@ -7,28 +7,28 @@
 <img src="https://github.com/VINITRAJ5/Flutter-Music_Player/blob/master/Screenshots/home.png" width="280">
 
  1. it have favourite icon choose your Favourite
-   1. and has Categories Of different Types of food
+   1. and has Categories Of different Types of song
    
-  ## This is the Drawer Section of App <h2> 
+  ## This is Play Screen of Song <h2> 
    This Screen Contain Information of Following
 
-> 1.  2 button for 2 Screen
+> 1.  have 3 button 1.play/push 2.next/back
    
 <img src="https://github.com/VINITRAJ5/Flutter-Music_Player/blob/master/Screenshots/play" width="280">
 
- *Filter in form of toggle button for Different Categories*   
+ *Shows Notification in Android Menu*   
    
 <img src="https://github.com/VINITRAJ5/Flutter-Music_Player/blob/master/Screenshots/notification.png" width="200">
    
-  ## This is the Detail Page Of Food <h2>
-   **You can Add New see Whole List of same Categories**
+  ## this Section contain saved song/music/album<h2>
+   ****
 
 <img src="https://github.com/VINITRAJ5/Flutter-Music_Player/blob/master/Screenshots/mymusic.png" width="280">
 
- ## This is the Detail Page Of  Single Food <h2>
+ ## you can search here <h2>
     This Screen Contain Information of Following
-> 1.  Required Food Ingredients
-   >> 2. Steps For Making that food
+> 1.  music name
+   >> 2. album name
    
 <img src="https://github.com/VINITRAJ5/Flutter-Music_Player/blob/master/Screenshots/search.png" width="280">
 
