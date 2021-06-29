@@ -1,6 +1,6 @@
 # Screenshot of This App Below <h1>
    
-   <img src="https://github.com/VINITRAJ5/Flutter-Music_Player/blob/master/Screenshots/home.png" width="280">
+   <img src="https://github.com/VINITRAJ5/Flutter-Music_Player/blob/master/Screenshots/compile.gif" width="280">
 
 ## This is the Main Screen of App <h2>
    
