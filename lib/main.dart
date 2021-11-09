@@ -102,7 +102,7 @@ class _MyAppState extends State<MyApp> {
     ]);
 
     return MaterialApp(
-      title: 'BlackHole',
+      title: 'Music Player',
       themeMode: currentTheme.currentTheme(), //system,
       theme: ThemeData(
         textSelectionTheme: TextSelectionThemeData(
@@ -133,7 +133,7 @@ class _MyAppState extends State<MyApp> {
         ),
         visualDensity: VisualDensity.adaptivePlatformDensity,
         brightness: Brightness.dark,
-        canvasColor: Colors.grey[900],
+        canvasColor: Colors.blue[900],
         cardColor: Colors.grey[850],
         accentColor: currentTheme.currentColor(),
       ),
